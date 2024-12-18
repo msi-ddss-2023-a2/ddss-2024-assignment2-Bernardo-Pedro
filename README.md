@@ -62,3 +62,7 @@ After the required commands and having started the web application, they will av
 
 - Nuno Antunes <nmsa@dei.uc.pt>
 - Marco Vieira <mvieira@dei.uc.pt>
+
+# Developer
+
+- Bernardo Pedro <bernardopedro@stundent.dei.uc.pt> nº2021231014
